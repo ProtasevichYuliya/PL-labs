@@ -1,0 +1,11 @@
+[package]
+name = "finger_to_the_sky"
+version = "0.1.0"
+authors = ["Yulya Protasevich <Protasevich.Yuliya@gmail.com>"]
+
+[dependencies]
+regex = "0.2"
+
+[[bin]]
+name = "finger_to_the_sky"
+path = "main.rs"
